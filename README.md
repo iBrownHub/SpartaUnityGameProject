@@ -1,2 +1,6 @@
 # SpartaUnityGameProject
-This is the unity game project i decided to create whilst at Sparta.
+This is the unity game project I decided to create whilst at Sparta.
+
+After i had finished my Winforms game for my project at sparta, I made a very simple Unity 3D style game because i thought i could make it slightly more visually appealing than when using Winforms. This game took me about a weekend to make and is a tower defence type game where each new wave of enemies is increased by 5 and their health goes up by one. You can also upgrade the towers by clicking on them once they are created, giving them +1 attack power. I made a start and end point for the enemies as well as a list of nodes for the enemies to follow. If i had more time i would probably create some more levels and some different turrets that do different things like slow down the speed of enemies or make enemies have a bigger area of effect, maybe by using rockets or grenades.
+
+I feel like i knew a lot about unity 2d games so i decided to make this game 3d as i had never worked in a 3d game. It was very challenging to start with but once i got to grips with it, it was no harder than working in 2d. This project was very enjoyable to make as there were no restraints, it was just me deciding what to make and how to code it.
